@@ -1,7 +1,8 @@
 repo_name: ayungavis/putto
-report_id: 0e98066550b2fb1fcc16830a6fe7eadd
+report_id: fcbe01acec09e4635b15cf6659fc2c0f
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:20:35+00:00'
+timestamp: '2024-01-05T08:33:46+00:00'
 requested_by: ayungavis
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ayungavis/putto
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ayungavis/putto
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -50,6 +53,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ayungavis/putto/blob/main/package.json
   detection_source: package.json
   last_updated_by: Wahyu Kurniawan
   last_updated_on: 2022-12-27 13:54:44.000000000 Z
@@ -61,6 +65,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ayungavis/putto
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -70,6 +75,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ayungavis/putto/blob/main/package.json
   detection_source: package.json
   last_updated_by: Wahyu Kurniawan
   last_updated_on: 2022-12-27 13:54:44.000000000 Z
